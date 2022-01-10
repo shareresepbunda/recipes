@@ -1,2 +1,2 @@
-# recipeswonderful.netlify.app
+# Recipes Wonderful
 https://recipeswonderful.netlify.app/
