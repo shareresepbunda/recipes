@@ -1,6 +1,6 @@
-baseURL = "https://recipesfuture.netlify.app/"
+baseURL = "https://recipeswonderful.netlify.app/"
 languageCode = "en-us"
-title = "Recipes Future"
+title = "Recipes Wonderful"
 theme = "big"
 
 [taxonomies]
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://recipesfuture.netlify.app/"
+    homepage = "https://recipeswonderful.netlify.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
